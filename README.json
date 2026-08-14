@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-12T02:00:34Z",
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24918
+                "stars": 24921
               }
             },
             {
@@ -118,10 +118,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-12T22:46:44Z",
+                "last_commit": "2026-08-13T21:30:41Z",
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23097
+                "stars": 23099
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-01-04T10:23:47Z",
                 "owner": "dianping",
                 "repo": "cat",
-                "stars": 18943
+                "stars": 18941
               }
             },
             {
@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-06T04:10:29Z",
                 "owner": "openzipkin",
                 "repo": "zipkin",
-                "stars": 17452
+                "stars": 17453
               }
             },
             {
@@ -160,10 +160,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-13T02:20:57Z",
+                "last_commit": "2026-08-13T07:49:23Z",
                 "owner": "pinpoint-apm",
                 "repo": "pinpoint",
-                "stars": 13864
+                "stars": 13863
               }
             }
           ]
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-12T05:06:48Z",
             "owner": "squid-cache",
             "repo": "squid",
-            "stars": 3059
+            "stars": 3060
           }
         },
         {
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:13:27.467Z",
+    "last_updated": "2026-08-14T03:58:50.666Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
     "enhanced_repository": "enhansome/architect-enhansome",
