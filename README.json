@@ -104,10 +104,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-12T02:00:34Z",
+                "last_commit": "2026-08-15T00:57:32Z",
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24921
+                "stars": 24917
               }
             },
             {
@@ -118,10 +118,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-13T21:30:41Z",
+                "last_commit": "2026-08-14T19:14:16Z",
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23099
+                "stars": 23103
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-01-04T10:23:47Z",
                 "owner": "dianping",
                 "repo": "cat",
-                "stars": 18941
+                "stars": 18942
               }
             },
             {
@@ -160,10 +160,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-13T07:49:23Z",
+                "last_commit": "2026-08-14T08:36:01Z",
                 "owner": "pinpoint-apm",
                 "repo": "pinpoint",
-                "stars": 13863
+                "stars": 13862
               }
             }
           ]
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-12T05:06:48Z",
             "owner": "squid-cache",
             "repo": "squid",
-            "stars": 3060
+            "stars": 3063
           }
         },
         {
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:58:50.666Z",
+    "last_updated": "2026-08-15T02:44:50.349Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
     "enhanced_repository": "enhansome/architect-enhansome",
