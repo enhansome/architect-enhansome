@@ -118,10 +118,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T01:16:28Z",
+                "last_commit": "2026-08-17T02:53:16Z",
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23104
+                "stars": 23105
               }
             },
             {
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T05:06:48Z",
+            "last_commit": "2026-08-16T13:32:12Z",
             "owner": "squid-cache",
             "repo": "squid",
-            "stars": 3064
+            "stars": 3063
           }
         },
         {
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:53:29.456Z",
+    "last_updated": "2026-08-17T02:53:26.041Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
     "enhanced_repository": "enhansome/architect-enhansome",

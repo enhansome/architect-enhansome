@@ -6,7 +6,7 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,075 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,074 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
@@ -911,8 +911,8 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,918 | 🐛 21 | 🌐 Java | 📅 2026-08-15
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,104 | 🐛 565 | 🌐 Go | 📅 2026-08-16
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,918 | 🐛 20 | 🌐 Java | 📅 2026-08-15
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,105 | 🐛 568 | 🌐 Go | 📅 2026-08-17
   * [CAT](https://github.com/dianping/cat) ⭐ 18,942 | 🐛 217 | 🌐 Java | 📅 2025-01-04
   * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,451 | 🐛 175 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,862 | 🐛 537 | 🌐 Java | 📅 2026-08-14
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,064 | 🐛 203 | 🌐 C++ | 📅 2026-08-12 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,063 | 🐛 202 | 🌐 C++ | 📅 2026-08-16 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,905 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1182,7 +1182,7 @@ APM —  Application Performance Management
 
 ### Tair
 
-* [官方网站](https://github.com/alibaba/tair) ⭐ 2,311 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
+* [官方网站](https://github.com/alibaba/tair) ⭐ 2,312 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
 * [《Tair和Redis的对比》](http://blog.csdn.net/farphone/article/details/53522383)
 * 特点：可以配置备份节点数目，通过异步同步到备份节点
 * 一致性Hash算法。
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,803 | 🐛 163 | 🌐 Java | 📅 2026-08-02
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,801 | 🐛 163 | 🌐 Java | 📅 2026-08-16
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1794,7 +1794,7 @@ TODO
 ### 单点登录(SSO)
 
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,357 | 🐛 6 | 🌐 Java | 📅 2026-08-16
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,357 | 🐛 8 | 🌐 Java | 📅 2026-08-17
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
 # 常用开源框架
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,835 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,832 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,075 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,074 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
