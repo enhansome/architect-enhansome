@@ -29,7 +29,7 @@
             "last_commit": "2023-05-07T15:03:53Z",
             "owner": "CL0610",
             "repo": "Java-concurrency",
-            "stars": 4586
+            "stars": 4587
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2023-05-07T15:03:53Z",
             "owner": "CL0610",
             "repo": "Java-concurrency",
-            "stars": 4586
+            "stars": 4587
           }
         }
       ],
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-15T00:57:32Z",
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24920
+                "stars": 24924
               }
             },
             {
@@ -118,10 +118,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-18T01:06:24Z",
+                "last_commit": "2026-08-19T02:23:46Z",
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23107
+                "stars": 23112
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-01-04T10:23:47Z",
                 "owner": "dianping",
                 "repo": "cat",
-                "stars": 18940
+                "stars": 18941
               }
             },
             {
@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-06T04:10:29Z",
                 "owner": "openzipkin",
                 "repo": "zipkin",
-                "stars": 17451
+                "stars": 17454
               }
             },
             {
@@ -160,10 +160,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-18T02:18:58Z",
+                "last_commit": "2026-08-19T01:46:43Z",
                 "owner": "pinpoint-apm",
                 "repo": "pinpoint",
-                "stars": 13862
+                "stars": 13864
               }
             }
           ]
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-16T13:32:12Z",
             "owner": "squid-cache",
             "repo": "squid",
-            "stars": 3066
+            "stars": 3068
           }
         },
         {
@@ -451,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:49:44.819Z",
+    "last_updated": "2026-08-19T02:50:48.449Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
     "enhanced_repository": "enhansome/architect-enhansome",

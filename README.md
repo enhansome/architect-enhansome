@@ -6,358 +6,358 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,074 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,076 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat\&label=Star)](https://github.com/xingshaocheng/architect-awesome/stargazers) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-[![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat\&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-[![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat\&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
+[![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat\&label=Star)](https://github.com/xingshaocheng/architect-awesome/stargazers) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+[![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat\&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+[![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat\&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
 [![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
 
-* [数据结构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [集合](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#集合) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [链表、数组](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#链表数组) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [字典、关联数组](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#字典关联数组) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [栈](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#栈) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [二叉树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#二叉树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [完全二叉树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#完全二叉树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [平衡二叉树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#平衡二叉树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [二叉查找树（BST）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#二叉查找树bst) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [红黑树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#红黑树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [B，B+，B\*树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#b-bb树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [LSM 树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#lsm-树) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [BitSet](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#bitset) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [常用算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [排序、查找算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#排序查找算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [选择排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#选择排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [冒泡排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#冒泡排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [插入排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#插入排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [快速排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#快速排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [归并排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#归并排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [希尔排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#希尔排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [堆排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#堆排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [计数排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#计数排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [桶排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#桶排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [基数排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#基数排序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [二分查找](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#二分查找) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Java 中的排序工具](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java-中的排序工具) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [布隆过滤器](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#布隆过滤器) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [字符串比较](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#字符串比较) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [KMP 算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kmp-算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [深度优先、广度优先](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#深度优先广度优先) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [贪心算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#贪心算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [回溯算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#回溯算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [剪枝算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#剪枝算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [动态规划](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#动态规划) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [朴素贝叶斯](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#朴素贝叶斯) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [推荐算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#推荐算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [最小生成树算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#最小生成树算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [最短路径算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#最短路径算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [并发](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#并发) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Java 并发](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java-并发) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [多线程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#多线程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [线程安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#线程安全) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [一致性、事务](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#一致性事务) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [事务 ACID 特性](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#事务-acid-特性) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [事务的隔离级别](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#事务的隔离级别) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [MVCC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mvcc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Java中的锁和同步类](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java中的锁和同步类) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [公平锁 & 非公平锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#公平锁--非公平锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [悲观锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#悲观锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [乐观锁 & CAS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#乐观锁--cas) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [ABA 问题](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#aba-问题) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [CopyOnWrite容器](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#copyonwrite容器) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [RingBuffer](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ringbuffer) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [可重入锁 & 不可重入锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#可重入锁--不可重入锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [互斥锁 & 共享锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#互斥锁--共享锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [死锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#死锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [操作系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#操作系统) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [计算机原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#计算机原理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [CPU](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cpu) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [多级缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#多级缓存) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [进程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#进程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [线程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#线程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [协程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#协程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Linux](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#linux) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [设计模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [设计模式的六大原则](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计模式的六大原则) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [23种常见设计模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#23种常见设计模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [应用场景](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#应用场景) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [单例模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单例模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [责任链模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#责任链模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [MVC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mvc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [IOC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ioc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [AOP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#aop) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [UML](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#uml) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [微服务思想](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#微服务思想) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [康威定律](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#康威定律) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [运维 & 统计 & 技术支持](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#运维--统计--技术支持) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [常规监控](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常规监控) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [APM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#apm) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [统计分析](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#统计分析) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [持续集成(CI/CD)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#持续集成cicd) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Jenkins](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#jenkins) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [环境分离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#环境分离) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [自动化运维](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#自动化运维) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Ansible](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ansible) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [puppet](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#puppet) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [chef](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#chef) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#测试) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [TDD 理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tdd-理论) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [单元测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单元测试) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [压力测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#压力测试) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [全链路压测](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#全链路压测) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [A/B 、灰度、蓝绿测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ab-灰度蓝绿测试) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [虚拟化](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#虚拟化) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [KVM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kvm) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Xen](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#xen) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [OpenVZ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#openvz) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [容器技术](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#容器技术) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Docker](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#docker) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [云技术](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#云技术) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [OpenStack](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#openstack) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [DevOps](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#devops) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [文档管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#文档管理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [中间件](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#中间件) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Web Server](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-server) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Nginx](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#nginx) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [OpenResty](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#openresty) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Tengine](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#Tengine) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Apache Httpd](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#apache-httpd) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Tomcat](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tomcat) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [架构原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构原理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [调优方案](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#调优方案) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Jetty](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#jetty) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#缓存) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [本地缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#本地缓存) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [客户端缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#客户端缓存) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [服务端缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务端缓存) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Web缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web缓存) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Memcached](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#memcached) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Redis](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#redis) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [架构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [回收策略](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#回收策略) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Tair](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tair) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [消息队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#消息队列) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [消息总线](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#消息总线) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [消息的顺序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#消息的顺序) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [RabbitMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rabbitmq) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [RocketMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rocketmq) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [ActiveMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#activemq) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Kafka](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kafka) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Redis 消息推送](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#redis-消息推送) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [ZeroMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zeromq) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#定时调度) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [单机定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单机定时调度) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [分布式定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式定时调度) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [RPC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rpc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Dubbo](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#dubbo) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Thrift](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#thrift) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [gRPC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#grpc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [数据库中间件](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库中间件) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Sharding Jdbc](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#sharding-jdbc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [日志系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#日志系统) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [日志搜集](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#日志搜集) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [配置中心](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#配置中心) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [API 网关](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#api-网关) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [网络](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [协议](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#协议) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [OSI 七层协议](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#osi-七层协议) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [TCP/IP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tcpip) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [HTTP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#http) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [HTTP2.0](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#http20) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [HTTPS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#https) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [网络模型](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络模型) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Epoll](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#epoll) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Java NIO](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java-nio) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [kqueue](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kqueue) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [连接和短连接](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#连接和短连接) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#框架) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [零拷贝（Zero-copy）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#零拷贝zero-copy) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [序列化(二进制协议)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#序列化二进制协议) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Hessian](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hessian) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Protobuf](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#protobuf) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [数据库](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [基础理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#基础理论) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [关系数据库设计的三大范式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#关系数据库设计的三大范式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [MySQL](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mysql) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#原理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [InnoDB](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#innodb) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [优化](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#优化) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#索引) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [聚集索引, 非聚集索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#聚集索引-非聚集索引) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [复合索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#复合索引) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [自适应哈希索引(AHI)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#自适应哈希索引ahi) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [explain](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#explain) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [NoSQL](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#nosql) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [MongoDB](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mongodb) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Hbase](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hbase) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [搜索引擎](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#搜索引擎) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [搜索引擎原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#搜索引擎原理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Lucene](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#lucene) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Elasticsearch](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#elasticsearch) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Solr](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#solr) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [sphinx](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#sphinx) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [性能](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#性能) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [性能优化方法论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#性能优化方法论) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [容量评估](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#容量评估) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [CDN 网络](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cdn-网络) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [连接池](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#连接池) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [性能调优](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#性能调优) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [大数据](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#大数据) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [流式计算](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#流式计算) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Storm](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#storm) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Flink](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#flink) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Kafka Stream](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kafka-stream) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [应用场景](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#应用场景-1) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Hadoop](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hadoop) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [HDFS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hdfs) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [MapReduce](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mapreduce) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Yarn](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#yarn) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Spark](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#spark) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#安全) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [web 安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-安全) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [XSS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#xss) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [CSRF](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#csrf) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [SQL 注入](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#sql-注入) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Hash Dos](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hash-dos) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [脚本注入](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#脚本注入) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [漏洞扫描工具](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#漏洞扫描工具) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [验证码](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#验证码) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [DDoS 防范](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ddos-防范) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [用户隐私信息保护](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#用户隐私信息保护) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [序列化漏洞](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#序列化漏洞) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [加密解密](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#加密解密) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [对称加密](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#对称加密) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [哈希算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#哈希算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [非对称加密](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#非对称加密) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [服务器安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务器安全) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [数据安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据安全) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [数据备份](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据备份) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [网络隔离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络隔离) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [内外网分离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#内外网分离) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [登录跳板机](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#登录跳板机) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [授权、认证](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#授权认证) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [RBAC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rbac) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [OAuth2.0](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#oauth20) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [OIDC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#oidc) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [SAML](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#saml) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [双因素认证（2FA）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#双因素认证2fa) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [单点登录(SSO)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单点登录sso) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [常用开源框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用开源框架) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [开源协议](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#开源协议) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [日志框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#日志框架) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Log4j、Log4j2](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#log4jlog4j2) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Logback](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#logback) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [ORM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#orm) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [网络框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络框架) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Web 框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-框架) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Spring 家族](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#spring-家族) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [工具框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具框架) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [分布式设计](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式设计) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [扩展性设计](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#扩展性设计) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [稳定性 & 高可用](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#稳定性--高可用) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [硬件负载均衡](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#硬件负载均衡) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [软件负载均衡](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#软件负载均衡) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [限流](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#限流) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [应用层容灾](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#应用层容灾) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [跨机房容灾](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#跨机房容灾) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [容灾演练流程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#容灾演练流程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [平滑启动](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#平滑启动) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [数据库扩展](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库扩展) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [读写分离模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#读写分离模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [分片模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分片模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [服务治理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务治理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [服务注册与发现](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务注册与发现) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [服务路由控制](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务路由控制) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [分布式一致](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [CAP 与 BASE 理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cap-与-base-理论) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [分布式锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式锁) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [分布式一致性算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致性算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [PAXOS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#paxos) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [Zab](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zab) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [Raft](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#raft) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [Gossip](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#gossip) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [两阶段提交、多阶段提交](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#两阶段提交多阶段提交) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [幂等](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#幂等) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [分布式一致方案](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致方案) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [分布式 Leader 节点选举](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式-leader-节点选举) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [TCC(Try/Confirm/Cancel) 柔性事务](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tcctryconfirmcancel-柔性事务) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [分布式文件系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式文件系统) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [唯一ID 生成](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#唯一id-生成) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [全局唯一ID](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#全局唯一id) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [一致性Hash算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#一致性hash算法) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [设计思想 & 开发模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计思想--开发模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [DDD(Domain-driven Design - 领域驱动设计)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ddddomain-driven-design---领域驱动设计) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [命令查询职责分离(CQRS)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#命令查询职责分离cqrs) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [贫血，充血模型](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#贫血充血模型) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Actor 模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#actor-模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [响应式编程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#响应式编程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Reactor](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#reactor) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [RxJava](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rxjava) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [Vert.x](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#vertx) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [DODAF2.0](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#dodaf20) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Serverless](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#serverless) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [Service Mesh](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#service-mesh) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [项目管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#项目管理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [架构评审](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构评审) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [重构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#重构) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [代码规范](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#代码规范) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [代码 Review](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#代码-review) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [RUP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rup) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [看板管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#看板管理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [SCRUM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#scrum) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [敏捷开发](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#敏捷开发) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [极限编程（XP）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#极限编程xp) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [结对编程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#结对编程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [PDCA 循环质量管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#pdca-循环质量管理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [FMEA管理模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#fmea管理模式) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [通用业务术语](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#通用业务术语) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [技术趋势](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#技术趋势) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [政策、法规](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#政策法规) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [法律](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#法律) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [严格遵守刑法253法条](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#严格遵守刑法253法条) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [架构师素质](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构师素质) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [团队管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#团队管理) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [招聘](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#招聘) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [资讯](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#资讯) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [行业资讯](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#行业资讯) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [公众号列表](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#公众号列表) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [博客](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#博客) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [团队博客](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#团队博客) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [个人博客](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#个人博客) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [综合门户、社区](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#综合门户社区) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [问答、讨论类社区](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#问答讨论类社区) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [行业数据分析](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#行业数据分析) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [专项网站](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#专项网站) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [其他类](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#其他类) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [推荐参考书](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#推荐参考书) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [在线电子书](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#在线电子书) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [纸质书](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#纸质书) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [开发方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#开发方面) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [架构方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构方面) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [技术管理方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#技术管理方面) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [基础理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#基础理论-1) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [工具方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具方面) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-      * [大数据方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#大数据方面) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-* [技术资源](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#技术资源) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [开源资源](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#开源资源) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [手册、文档、教程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#手册文档教程) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [在线课堂](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#在线课堂) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [会议、活动](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#会议活动) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [常用APP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用app) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [找工作](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#找工作) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [工具](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [代码托管](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#代码托管) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [文件服务](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#文件服务) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-  * [综合云服务商](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#综合云服务商) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
-    * [VPS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#vps) ⭐ 60,839 | 🐛 63 | 📅 2024-04-11
+* [数据结构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [集合](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#集合) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [链表、数组](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#链表数组) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [字典、关联数组](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#字典关联数组) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [栈](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#栈) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [二叉树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#二叉树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [完全二叉树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#完全二叉树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [平衡二叉树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#平衡二叉树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [二叉查找树（BST）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#二叉查找树bst) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [红黑树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#红黑树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [B，B+，B\*树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#b-bb树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [LSM 树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#lsm-树) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [BitSet](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#bitset) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [常用算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [排序、查找算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#排序查找算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [选择排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#选择排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [冒泡排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#冒泡排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [插入排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#插入排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [快速排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#快速排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [归并排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#归并排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [希尔排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#希尔排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [堆排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#堆排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [计数排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#计数排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [桶排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#桶排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [基数排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#基数排序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [二分查找](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#二分查找) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Java 中的排序工具](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java-中的排序工具) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [布隆过滤器](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#布隆过滤器) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [字符串比较](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#字符串比较) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [KMP 算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kmp-算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [深度优先、广度优先](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#深度优先广度优先) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [贪心算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#贪心算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [回溯算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#回溯算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [剪枝算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#剪枝算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [动态规划](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#动态规划) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [朴素贝叶斯](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#朴素贝叶斯) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [推荐算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#推荐算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [最小生成树算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#最小生成树算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [最短路径算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#最短路径算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [并发](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#并发) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Java 并发](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java-并发) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [多线程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#多线程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [线程安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#线程安全) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [一致性、事务](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#一致性事务) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [事务 ACID 特性](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#事务-acid-特性) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [事务的隔离级别](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#事务的隔离级别) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [MVCC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mvcc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Java中的锁和同步类](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java中的锁和同步类) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [公平锁 & 非公平锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#公平锁--非公平锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [悲观锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#悲观锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [乐观锁 & CAS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#乐观锁--cas) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [ABA 问题](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#aba-问题) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [CopyOnWrite容器](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#copyonwrite容器) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [RingBuffer](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ringbuffer) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [可重入锁 & 不可重入锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#可重入锁--不可重入锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [互斥锁 & 共享锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#互斥锁--共享锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [死锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#死锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [操作系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#操作系统) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [计算机原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#计算机原理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [CPU](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cpu) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [多级缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#多级缓存) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [进程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#进程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [线程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#线程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [协程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#协程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Linux](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#linux) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [设计模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [设计模式的六大原则](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计模式的六大原则) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [23种常见设计模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#23种常见设计模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [应用场景](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#应用场景) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [单例模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单例模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [责任链模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#责任链模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [MVC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mvc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [IOC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ioc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [AOP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#aop) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [UML](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#uml) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [微服务思想](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#微服务思想) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [康威定律](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#康威定律) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [运维 & 统计 & 技术支持](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#运维--统计--技术支持) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [常规监控](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常规监控) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [APM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#apm) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [统计分析](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#统计分析) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [持续集成(CI/CD)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#持续集成cicd) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Jenkins](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#jenkins) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [环境分离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#环境分离) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [自动化运维](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#自动化运维) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Ansible](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ansible) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [puppet](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#puppet) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [chef](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#chef) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#测试) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [TDD 理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tdd-理论) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [单元测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单元测试) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [压力测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#压力测试) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [全链路压测](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#全链路压测) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [A/B 、灰度、蓝绿测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ab-灰度蓝绿测试) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [虚拟化](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#虚拟化) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [KVM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kvm) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Xen](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#xen) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [OpenVZ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#openvz) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [容器技术](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#容器技术) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Docker](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#docker) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [云技术](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#云技术) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [OpenStack](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#openstack) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [DevOps](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#devops) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [文档管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#文档管理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [中间件](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#中间件) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Web Server](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-server) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Nginx](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#nginx) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [OpenResty](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#openresty) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Tengine](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#Tengine) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Apache Httpd](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#apache-httpd) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Tomcat](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tomcat) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [架构原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构原理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [调优方案](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#调优方案) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Jetty](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#jetty) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#缓存) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [本地缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#本地缓存) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [客户端缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#客户端缓存) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [服务端缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务端缓存) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Web缓存](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web缓存) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Memcached](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#memcached) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Redis](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#redis) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [架构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [回收策略](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#回收策略) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Tair](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tair) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [消息队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#消息队列) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [消息总线](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#消息总线) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [消息的顺序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#消息的顺序) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [RabbitMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rabbitmq) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [RocketMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rocketmq) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [ActiveMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#activemq) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Kafka](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kafka) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Redis 消息推送](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#redis-消息推送) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [ZeroMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zeromq) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#定时调度) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [单机定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单机定时调度) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [分布式定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式定时调度) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [RPC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rpc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Dubbo](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#dubbo) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Thrift](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#thrift) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [gRPC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#grpc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [数据库中间件](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库中间件) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Sharding Jdbc](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#sharding-jdbc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [日志系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#日志系统) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [日志搜集](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#日志搜集) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [配置中心](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#配置中心) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [API 网关](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#api-网关) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [网络](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [协议](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#协议) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [OSI 七层协议](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#osi-七层协议) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [TCP/IP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tcpip) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [HTTP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#http) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [HTTP2.0](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#http20) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [HTTPS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#https) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [网络模型](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络模型) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Epoll](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#epoll) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Java NIO](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#java-nio) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [kqueue](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kqueue) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [连接和短连接](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#连接和短连接) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#框架) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [零拷贝（Zero-copy）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#零拷贝zero-copy) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [序列化(二进制协议)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#序列化二进制协议) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Hessian](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hessian) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Protobuf](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#protobuf) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [数据库](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [基础理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#基础理论) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [关系数据库设计的三大范式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#关系数据库设计的三大范式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [MySQL](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mysql) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#原理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [InnoDB](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#innodb) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [优化](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#优化) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#索引) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [聚集索引, 非聚集索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#聚集索引-非聚集索引) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [复合索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#复合索引) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [自适应哈希索引(AHI)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#自适应哈希索引ahi) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [explain](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#explain) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [NoSQL](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#nosql) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [MongoDB](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mongodb) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Hbase](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hbase) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [搜索引擎](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#搜索引擎) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [搜索引擎原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#搜索引擎原理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Lucene](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#lucene) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Elasticsearch](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#elasticsearch) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Solr](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#solr) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [sphinx](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#sphinx) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [性能](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#性能) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [性能优化方法论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#性能优化方法论) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [容量评估](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#容量评估) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [CDN 网络](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cdn-网络) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [连接池](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#连接池) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [性能调优](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#性能调优) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [大数据](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#大数据) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [流式计算](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#流式计算) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Storm](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#storm) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Flink](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#flink) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Kafka Stream](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kafka-stream) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [应用场景](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#应用场景-1) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Hadoop](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hadoop) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [HDFS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hdfs) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [MapReduce](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mapreduce) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Yarn](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#yarn) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Spark](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#spark) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#安全) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [web 安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-安全) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [XSS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#xss) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [CSRF](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#csrf) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [SQL 注入](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#sql-注入) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Hash Dos](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#hash-dos) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [脚本注入](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#脚本注入) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [漏洞扫描工具](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#漏洞扫描工具) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [验证码](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#验证码) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [DDoS 防范](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ddos-防范) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [用户隐私信息保护](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#用户隐私信息保护) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [序列化漏洞](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#序列化漏洞) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [加密解密](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#加密解密) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [对称加密](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#对称加密) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [哈希算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#哈希算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [非对称加密](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#非对称加密) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [服务器安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务器安全) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [数据安全](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据安全) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [数据备份](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据备份) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [网络隔离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络隔离) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [内外网分离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#内外网分离) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [登录跳板机](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#登录跳板机) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [授权、认证](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#授权认证) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [RBAC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rbac) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [OAuth2.0](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#oauth20) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [OIDC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#oidc) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [SAML](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#saml) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [双因素认证（2FA）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#双因素认证2fa) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [单点登录(SSO)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单点登录sso) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [常用开源框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用开源框架) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [开源协议](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#开源协议) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [日志框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#日志框架) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Log4j、Log4j2](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#log4jlog4j2) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Logback](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#logback) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [ORM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#orm) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [网络框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络框架) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Web 框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-框架) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Spring 家族](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#spring-家族) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [工具框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具框架) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [分布式设计](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式设计) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [扩展性设计](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#扩展性设计) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [稳定性 & 高可用](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#稳定性--高可用) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [硬件负载均衡](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#硬件负载均衡) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [软件负载均衡](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#软件负载均衡) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [限流](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#限流) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [应用层容灾](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#应用层容灾) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [跨机房容灾](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#跨机房容灾) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [容灾演练流程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#容灾演练流程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [平滑启动](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#平滑启动) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [数据库扩展](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库扩展) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [读写分离模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#读写分离模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [分片模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分片模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [服务治理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务治理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [服务注册与发现](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务注册与发现) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [服务路由控制](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#服务路由控制) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [分布式一致](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [CAP 与 BASE 理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cap-与-base-理论) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [分布式锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式锁) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [分布式一致性算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致性算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [PAXOS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#paxos) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [Zab](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zab) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [Raft](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#raft) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [Gossip](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#gossip) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [两阶段提交、多阶段提交](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#两阶段提交多阶段提交) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [幂等](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#幂等) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [分布式一致方案](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致方案) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [分布式 Leader 节点选举](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式-leader-节点选举) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [TCC(Try/Confirm/Cancel) 柔性事务](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tcctryconfirmcancel-柔性事务) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [分布式文件系统](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式文件系统) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [唯一ID 生成](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#唯一id-生成) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [全局唯一ID](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#全局唯一id) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [一致性Hash算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#一致性hash算法) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [设计思想 & 开发模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#设计思想--开发模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [DDD(Domain-driven Design - 领域驱动设计)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ddddomain-driven-design---领域驱动设计) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [命令查询职责分离(CQRS)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#命令查询职责分离cqrs) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [贫血，充血模型](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#贫血充血模型) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Actor 模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#actor-模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [响应式编程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#响应式编程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Reactor](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#reactor) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [RxJava](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rxjava) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [Vert.x](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#vertx) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [DODAF2.0](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#dodaf20) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Serverless](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#serverless) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [Service Mesh](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#service-mesh) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [项目管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#项目管理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [架构评审](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构评审) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [重构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#重构) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [代码规范](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#代码规范) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [代码 Review](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#代码-review) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [RUP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rup) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [看板管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#看板管理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [SCRUM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#scrum) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [敏捷开发](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#敏捷开发) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [极限编程（XP）](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#极限编程xp) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [结对编程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#结对编程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [PDCA 循环质量管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#pdca-循环质量管理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [FMEA管理模式](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#fmea管理模式) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [通用业务术语](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#通用业务术语) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [技术趋势](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#技术趋势) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [政策、法规](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#政策法规) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [法律](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#法律) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [严格遵守刑法253法条](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#严格遵守刑法253法条) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [架构师素质](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构师素质) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [团队管理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#团队管理) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [招聘](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#招聘) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [资讯](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#资讯) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [行业资讯](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#行业资讯) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [公众号列表](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#公众号列表) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [博客](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#博客) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [团队博客](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#团队博客) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [个人博客](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#个人博客) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [综合门户、社区](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#综合门户社区) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [问答、讨论类社区](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#问答讨论类社区) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [行业数据分析](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#行业数据分析) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [专项网站](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#专项网站) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [其他类](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#其他类) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [推荐参考书](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#推荐参考书) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [在线电子书](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#在线电子书) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [纸质书](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#纸质书) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [开发方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#开发方面) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [架构方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#架构方面) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [技术管理方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#技术管理方面) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [基础理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#基础理论-1) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [工具方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具方面) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+      * [大数据方面](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#大数据方面) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+* [技术资源](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#技术资源) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [开源资源](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#开源资源) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [手册、文档、教程](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#手册文档教程) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [在线课堂](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#在线课堂) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [会议、活动](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#会议活动) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [常用APP](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用app) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [找工作](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#找工作) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [工具](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [代码托管](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#代码托管) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [文件服务](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#文件服务) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+  * [综合云服务商](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#综合云服务商) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
+    * [VPS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#vps) ⭐ 60,838 | 🐛 63 | 📅 2024-04-11
 
 **（Toc generated by [simple-php-github-toc](https://github.com/xingshaocheng/simple-php-github-toc) ⭐ 54 | 🐛 0 | 🌐 PHP | 📅 2019-04-20 ）**
 
@@ -599,8 +599,8 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## Java 并发
 
-* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,586 | 🐛 25 | 📅 2023-05-07
-* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,586 | 🐛 25 | 📅 2023-05-07
+* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,587 | 🐛 25 | 📅 2023-05-07
+* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,587 | 🐛 25 | 📅 2023-05-07
 
 ## 多线程
 
@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,920 | 🐛 20 | 🌐 Java | 📅 2026-08-15
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,107 | 🐛 572 | 🌐 Go | 📅 2026-08-18
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,940 | 🐛 217 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,451 | 🐛 175 | 🌐 Java | 📅 2026-08-06
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,862 | 🐛 538 | 🌐 Java | 📅 2026-08-18
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,924 | 🐛 21 | 🌐 Java | 📅 2026-08-15
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,112 | 🐛 572 | 🌐 Go | 📅 2026-08-19
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,941 | 🐛 217 | 🌐 Java | 📅 2025-01-04
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,454 | 🐛 175 | 🌐 Java | 📅 2026-08-06
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,864 | 🐛 532 | 🌐 Java | 📅 2026-08-19
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,066 | 🐛 204 | 🌐 C++ | 📅 2026-08-16 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,068 | 🐛 204 | 🌐 C++ | 📅 2026-08-16 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,905 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,802 | 🐛 163 | 🌐 Java | 📅 2026-08-16
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,800 | 🐛 164 | 🌐 Java | 📅 2026-08-16
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1794,7 +1794,7 @@ TODO
 ### 单点登录(SSO)
 
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,357 | 🐛 9 | 🌐 Java | 📅 2026-08-17
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,358 | 🐛 13 | 🌐 Java | 📅 2026-08-18
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
 # 常用开源框架
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,830 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,832 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 21,880 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 21,882 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,074 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,076 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
