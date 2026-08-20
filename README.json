@@ -1,458 +1,228 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "树"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "希尔排序"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "字符串比较"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Java 并发知识合集",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-07T15:03:53Z",
-            "owner": "CL0610",
-            "repo": "Java-concurrency",
-            "stars": 4587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JAVA并发知识图谱",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-07T15:03:53Z",
-            "owner": "CL0610",
-            "repo": "Java-concurrency",
-            "stars": 4587
-          }
-        }
-      ],
-      "title": "Java 并发"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "一致性、事务"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "锁"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CPU"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "进程"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "责任链模式"
-    },
-    {
-      "description": "APM — Application Performance Management",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CNCF OpenTracing",
-          "description": "，中文版",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-05-13T07:14:25Z",
-            "owner": "opentracing-contrib",
-            "repo": "opentracing-specification-zh",
-            "stars": 939
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "主要开源软件，按字母排序",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Apache SkyWalking",
+              "title": "Java 并发知识合集",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Java",
-                "last_commit": "2026-08-15T00:57:32Z",
-                "owner": "apache",
-                "repo": "skywalking",
-                "stars": 24924
+                "id": 131566608,
+                "language": null,
+                "last_commit": "2023-05-07T15:03:53Z",
+                "owner": "CL0610",
+                "repo": "Java-concurrency",
+                "stars": 4588
               }
             },
             {
               "node_type": "item",
-              "title": "CNCF jaeger",
+              "title": "JAVA并发知识图谱",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-19T02:23:46Z",
-                "owner": "jaegertracing",
-                "repo": "jaeger",
-                "stars": 23112
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "CAT",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2025-01-04T10:23:47Z",
-                "owner": "dianping",
-                "repo": "cat",
-                "stars": 18941
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Zipkin",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2026-08-06T04:10:29Z",
-                "owner": "openzipkin",
-                "repo": "zipkin",
-                "stars": 17454
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Pinpoint",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2026-08-19T01:46:43Z",
-                "owner": "pinpoint-apm",
-                "repo": "pinpoint",
-                "stars": 13864
+                "id": 131566608,
+                "language": null,
+                "last_commit": "2023-05-07T15:03:53Z",
+                "owner": "CL0610",
+                "repo": "Java-concurrency",
+                "stars": 4588
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java 并发"
         }
       ],
-      "title": "APM"
+      "title": "并发"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "自动化运维"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "测试"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "容器技术"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "云技术"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web Server"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tomcat"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "服务端缓存"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "varnish",
-          "description": "varnish cache",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2026-02-16T01:29:54Z",
-            "owner": "varnishcache",
-            "repo": "varnish-cache",
-            "stars": 4048
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "squid",
-          "description": "squid cache",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-16T13:32:12Z",
-            "owner": "squid-cache",
-            "repo": "squid",
-            "stars": 3068
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nuster",
-          "description": "nuster cache",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-12-07T14:46:06Z",
-            "owner": "jiangwenyuan",
-            "repo": "nuster",
-            "stars": 1905
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CNCF OpenTracing",
+              "description": "，中文版",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 79680734,
+                "language": null,
+                "last_commit": "2022-05-13T07:14:25Z",
+                "owner": "opentracing-contrib",
+                "repo": "opentracing-specification-zh",
+                "stars": 939
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "主要开源软件，按字母排序",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Apache SkyWalking",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45721011,
+                    "language": "Java",
+                    "last_commit": "2026-08-15T00:57:32Z",
+                    "owner": "apache",
+                    "repo": "skywalking",
+                    "stars": 24924
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CNCF jaeger",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56342508,
+                    "language": "Go",
+                    "last_commit": "2026-08-19T21:26:15Z",
+                    "owner": "jaegertracing",
+                    "repo": "jaeger",
+                    "stars": 23121
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CAT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7010724,
+                    "language": "Java",
+                    "last_commit": "2025-01-04T10:23:47Z",
+                    "owner": "dianping",
+                    "repo": "cat",
+                    "stars": 18941
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zipkin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4576305,
+                    "language": "Java",
+                    "last_commit": "2026-08-06T04:10:29Z",
+                    "owner": "openzipkin",
+                    "repo": "zipkin",
+                    "stars": 17454
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pinpoint",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 25459400,
+                    "language": "Java",
+                    "last_commit": "2026-08-20T00:50:18Z",
+                    "owner": "pinpoint-apm",
+                    "repo": "pinpoint",
+                    "stars": 13864
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "APM — Application Performance Management",
+          "node_type": "group",
+          "title": "APM"
         }
       ],
-      "title": "Web缓存"
+      "title": "运维 & 统计 & 技术支持"
     },
     {
-      "description": "TODO",
-      "items": [],
-      "title": "ZeroMQ"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "定时调度"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "数据库中间件"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "日志系统"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "协议"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "序列化(二进制协议)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "基础理论"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MySQL"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "索引"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "NoSQL"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "流式计算"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "web 安全"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "加密解密"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "数据安全"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "数据备份"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "网络隔离"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "内外网分离"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "日志框架"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "网络框架"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web 框架"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "数据库扩展"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "服务治理"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "分布式一致"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "分布式一致性算法"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "唯一ID 生成"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "Actor 模式"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "响应式编程"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "Reactor"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "RxJava"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "Vert.x"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "敏捷开发"
-    },
-    {
-      "description": "TODO\nTODO\nTODO",
-      "items": [],
-      "title": "FMEA管理模式"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "招聘"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "公众号列表"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "博客"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "推荐参考书"
-    },
-    {
-      "description": "更多架构方面书籍参考: awesome-java-books",
-      "items": [],
-      "title": "纸质书"
-    },
-    {
-      "description": "TODO",
-      "items": [],
-      "title": "工具方面"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "大数据方面"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "varnish",
+                  "description": "varnish cache",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 43681824,
+                    "language": "C",
+                    "last_commit": "2026-02-16T01:29:54Z",
+                    "owner": "varnishcache",
+                    "repo": "varnish-cache",
+                    "stars": 4048
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "squid",
+                  "description": "squid cache",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24519987,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T15:07:35Z",
+                    "owner": "squid-cache",
+                    "repo": "squid",
+                    "stars": 3069
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nuster",
+                  "description": "nuster cache",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 109120828,
+                    "language": "C",
+                    "last_commit": "2021-12-07T14:46:06Z",
+                    "owner": "jiangwenyuan",
+                    "repo": "nuster",
+                    "stars": 1905
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web缓存"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "服务端缓存"
+        }
+      ],
+      "title": "中间件"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:50:48.449Z",
+    "last_updated": "2026-08-20T02:50:41.217Z",
     "original_repository": "xingshaocheng/architect-awesome",
+    "original_repository_id": 128398636,
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
     "enhanced_repository": "enhansome/architect-enhansome",
     "enhanced_repository_description": null,
