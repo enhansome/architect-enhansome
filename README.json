@@ -77,10 +77,10 @@
                     "archived": false,
                     "id": 45721011,
                     "language": "Java",
-                    "last_commit": "2026-08-15T00:57:32Z",
+                    "last_commit": "2026-08-20T15:04:48Z",
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24924
+                    "stars": 24926
                   }
                 },
                 {
@@ -92,10 +92,10 @@
                     "archived": false,
                     "id": 56342508,
                     "language": "Go",
-                    "last_commit": "2026-08-19T21:26:15Z",
+                    "last_commit": "2026-08-20T15:20:54Z",
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23121
+                    "stars": 23123
                   }
                 },
                 {
@@ -110,7 +110,7 @@
                     "last_commit": "2025-01-04T10:23:47Z",
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18941
+                    "stars": 18942
                   }
                 },
                 {
@@ -137,10 +137,10 @@
                     "archived": false,
                     "id": 25459400,
                     "language": "Java",
-                    "last_commit": "2026-08-20T00:50:18Z",
+                    "last_commit": "2026-08-20T06:48:11Z",
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13864
+                    "stars": 13863
                   }
                 }
               ]
@@ -187,7 +187,7 @@
                     "last_commit": "2026-08-19T15:07:35Z",
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3069
+                    "stars": 3070
                   }
                 },
                 {
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:50:41.217Z",
+    "last_updated": "2026-08-21T02:56:00.928Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_id": 128398636,
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
