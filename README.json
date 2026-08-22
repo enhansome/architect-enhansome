@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-07T15:03:53Z",
                 "owner": "CL0610",
                 "repo": "Java-concurrency",
-                "stars": 4588
+                "stars": 4587
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2023-05-07T15:03:53Z",
                 "owner": "CL0610",
                 "repo": "Java-concurrency",
-                "stars": 4588
+                "stars": 4587
               }
             }
           ],
@@ -80,7 +80,7 @@
                     "last_commit": "2026-08-20T15:04:48Z",
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24926
+                    "stars": 24927
                   }
                 },
                 {
@@ -95,7 +95,7 @@
                     "last_commit": "2026-08-20T15:20:54Z",
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23123
+                    "stars": 23125
                   }
                 },
                 {
@@ -110,7 +110,7 @@
                     "last_commit": "2025-01-04T10:23:47Z",
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18942
+                    "stars": 18943
                   }
                 },
                 {
@@ -137,10 +137,10 @@
                     "archived": false,
                     "id": 25459400,
                     "language": "Java",
-                    "last_commit": "2026-08-20T06:48:11Z",
+                    "last_commit": "2026-08-21T05:06:13Z",
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13863
+                    "stars": 13862
                   }
                 }
               ]
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:56:00.928Z",
+    "last_updated": "2026-08-22T02:47:20.701Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_id": 128398636,
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
