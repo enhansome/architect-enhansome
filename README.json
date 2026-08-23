@@ -80,7 +80,7 @@
                     "last_commit": "2026-08-20T15:04:48Z",
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24927
+                    "stars": 24926
                   }
                 },
                 {
@@ -95,7 +95,7 @@
                     "last_commit": "2026-08-20T15:20:54Z",
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23125
+                    "stars": 23129
                   }
                 },
                 {
@@ -125,7 +125,7 @@
                     "last_commit": "2026-08-06T04:10:29Z",
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17454
+                    "stars": 17453
                   }
                 },
                 {
@@ -187,7 +187,7 @@
                     "last_commit": "2026-08-19T15:07:35Z",
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3070
+                    "stars": 3071
                   }
                 },
                 {
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:47:20.701Z",
+    "last_updated": "2026-08-23T02:55:56.001Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_id": 128398636,
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
