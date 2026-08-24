@@ -77,10 +77,10 @@
                     "archived": false,
                     "id": 45721011,
                     "language": "Java",
-                    "last_commit": "2026-08-20T15:04:48Z",
+                    "last_commit": "2026-08-24T02:15:20Z",
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24926
+                    "stars": 24928
                   }
                 },
                 {
@@ -92,10 +92,10 @@
                     "archived": false,
                     "id": 56342508,
                     "language": "Go",
-                    "last_commit": "2026-08-20T15:20:54Z",
+                    "last_commit": "2026-08-23T20:34:15Z",
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23129
+                    "stars": 23132
                   }
                 },
                 {
@@ -137,10 +137,10 @@
                     "archived": false,
                     "id": 25459400,
                     "language": "Java",
-                    "last_commit": "2026-08-21T05:06:13Z",
+                    "last_commit": "2026-08-24T02:36:40Z",
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13862
+                    "stars": 13861
                   }
                 }
               ]
@@ -187,7 +187,7 @@
                     "last_commit": "2026-08-19T15:07:35Z",
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3071
+                    "stars": 3070
                   }
                 },
                 {
@@ -220,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:55:56.001Z",
+    "last_updated": "2026-08-24T02:56:39.165Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_id": 128398636,
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
