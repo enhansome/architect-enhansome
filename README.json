@@ -15,7 +15,7 @@
             "last_commit": "2022-09-14T08:18:24Z",
             "owner": "sorenduan",
             "repo": "awesome-java-books",
-            "stars": 7079
+            "stars": 7078
           }
         },
         {
@@ -5286,7 +5286,7 @@
                     "archived": false,
                     "id": 45721011,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:38:33Z",
+                    "last_commit": "2026-08-24T23:04:23Z",
                     "owner": "apache",
                     "repo": "skywalking",
                     "stars": 24929
@@ -5301,10 +5301,10 @@
                     "archived": false,
                     "id": 56342508,
                     "language": "Go",
-                    "last_commit": "2026-08-23T20:34:15Z",
+                    "last_commit": "2026-08-24T23:52:26Z",
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23132
+                    "stars": 23136
                   }
                 },
                 {
@@ -5393,7 +5393,7 @@
                     "archived": false,
                     "id": 24519987,
                     "language": "C++",
-                    "last_commit": "2026-08-24T07:54:53Z",
+                    "last_commit": "2026-08-24T17:48:06Z",
                     "owner": "squid-cache",
                     "repo": "squid",
                     "stars": 3070
@@ -5487,7 +5487,7 @@
                     "archived": false,
                     "id": 2352744,
                     "language": "Java",
-                    "last_commit": "2026-08-24T10:11:09Z",
+                    "last_commit": "2026-08-25T00:27:03Z",
                     "owner": "apereo",
                     "repo": "cas",
                     "stars": 11359
@@ -5523,7 +5523,7 @@
                 "last_commit": "2024-08-06T08:22:02Z",
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30846
+                "stars": 30847
               }
             }
           ],
@@ -5551,7 +5551,7 @@
                 "last_commit": "2023-01-20T04:25:02Z",
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 21904
+                "stars": 21906
               }
             }
           ],
@@ -5597,7 +5597,7 @@
                     "last_commit": "2022-09-14T08:18:24Z",
                     "owner": "sorenduan",
                     "repo": "awesome-java-books",
-                    "stars": 7079
+                    "stars": 7078
                   }
                 }
               ],
@@ -5615,7 +5615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:48:36.610Z",
+    "last_updated": "2026-08-25T02:52:02.696Z",
     "original_repository": "xingshaocheng/architect-awesome",
     "original_repository_id": 128398636,
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
