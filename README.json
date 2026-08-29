@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "sorenduan",
             "repo": "awesome-java-books",
-            "stars": 7078,
+            "stars": 7079,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:29.153Z"
@@ -7381,7 +7381,7 @@
                     "open_issues": 40,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24932,
+                    "stars": 24933,
                     "topics": [
                       "apm",
                       "dapper",
@@ -7414,7 +7414,7 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-28T18:56:59Z",
-                    "open_issues": 554,
+                    "open_issues": 556,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
                     "stars": 23156,
@@ -7893,7 +7893,7 @@
                     "open_issues": 9,
                     "owner": "sorenduan",
                     "repo": "awesome-java-books",
-                    "stars": 7078,
+                    "stars": 7079,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:29.153Z"
@@ -7913,7 +7913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:10:12.734Z",
+    "last_updated": "2026-08-29T08:28:47.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",

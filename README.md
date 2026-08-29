@@ -6,7 +6,7 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,078 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,079 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
@@ -911,8 +911,8 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,932 | 🐛 40 | 🌐 Java | 📅 2026-08-26
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,156 | 🐛 554 | 🌐 Go | 📅 2026-08-28
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,933 | 🐛 40 | 🌐 Java | 📅 2026-08-26
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,156 | 🐛 556 | 🌐 Go | 📅 2026-08-28
   * [CAT](https://github.com/dianping/cat) ⭐ 18,945 | 🐛 217 | 🌐 Java | 📅 2025-01-04
   * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,455 | 🐛 175 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,861 | 🐛 538 | 🌐 Java | 📅 2026-08-28
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,078 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,079 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
