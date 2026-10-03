@@ -912,7 +912,7 @@ APM —  Application Performance Management
 
 * 主要开源软件，按字母排序
   * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,966 | 🐛 41 | 🌐 Java | 📅 2026-09-30
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,263 | 🐛 547 | 🌐 Go | 📅 2026-10-02
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,263 | 🐛 546 | 🌐 Go | 📅 2026-10-02
   * [CAT](https://github.com/dianping/cat) ⭐ 18,940 | 🐛 216 | 🌐 Java | 📅 2025-01-04
   * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,467 | 🐛 175 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,868 | 🐛 541 | 🌐 Java | 📅 2026-10-02
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,011 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,012 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 

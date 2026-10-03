@@ -180,7 +180,7 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T19:36:05Z",
-                    "open_issues": 547,
+                    "open_issues": 546,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
                     "stars": 23263,
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22011,
+                "stars": 22012,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:20:44.674Z",
+    "last_updated": "2026-10-03T07:22:01.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60854,
+      "stars": 60855,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
