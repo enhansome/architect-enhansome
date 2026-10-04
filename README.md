@@ -6,7 +6,7 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,091 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,090 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
@@ -911,10 +911,10 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,966 | 🐛 41 | 🌐 Java | 📅 2026-09-30
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,263 | 🐛 546 | 🌐 Go | 📅 2026-10-02
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,940 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,467 | 🐛 175 | 🌐 Java | 📅 2026-08-06
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,966 | 🐛 40 | 🌐 Java | 📅 2026-09-30
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,267 | 🐛 553 | 🌐 Go | 📅 2026-10-03
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,939 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,468 | 🐛 175 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,868 | 🐛 541 | 🌐 Java | 📅 2026-10-02
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,114 | 🐛 215 | 🌐 C++ | 📅 2026-10-02 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,116 | 🐛 215 | 🌐 C++ | 📅 2026-10-02 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,903 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,817 | 🐛 159 | 🌐 Java | 📅 2026-10-02
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,816 | 🐛 159 | 🌐 Java | 📅 2026-10-04
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,381 | 🐛 4 | 🌐 Java | 📅 2026-10-03
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,381 | 🐛 3 | 🌐 Java | 📅 2026-10-04
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,012 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,013 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,091 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,090 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

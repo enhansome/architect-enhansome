@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "sorenduan",
             "repo": "awesome-java-books",
-            "stars": 7091,
+            "stars": 7090,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:29.153Z"
@@ -144,7 +144,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T03:03:58Z",
-                    "open_issues": 41,
+                    "open_issues": 40,
                     "owner": "apache",
                     "repo": "skywalking",
                     "stars": 24966,
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T19:36:05Z",
-                    "open_issues": 546,
+                    "last_commit": "2026-10-03T19:41:52Z",
+                    "open_issues": 553,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23263,
+                    "stars": 23267,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -212,7 +212,7 @@
                     "open_issues": 216,
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18940,
+                    "stars": 18939,
                     "topics": [
                       "apm",
                       "distributed",
@@ -241,7 +241,7 @@
                     "open_issues": 175,
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17467,
+                    "stars": 17468,
                     "topics": [
                       "distributed-tracing",
                       "observability",
@@ -339,7 +339,7 @@
                     "open_issues": 215,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3114,
+                    "stars": 3116,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -440,11 +440,11 @@
                 "id": 53127403,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T11:42:19Z",
+                "last_commit": "2026-10-04T05:39:26Z",
                 "open_issues": 159,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29817,
+                "stars": 29816,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,8 +483,8 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T02:43:07Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-04T00:09:31Z",
+                    "open_issues": 3,
                     "owner": "apereo",
                     "repo": "cas",
                     "stars": 11381,
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22012,
+                "stars": 22013,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -659,7 +659,7 @@
                     "open_issues": 9,
                     "owner": "sorenduan",
                     "repo": "awesome-java-books",
-                    "stars": 7091,
+                    "stars": 7090,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:29.153Z"
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:22:01.817Z",
+    "last_updated": "2026-10-04T07:37:04.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60855,
+      "stars": 60856,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
