@@ -144,10 +144,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T03:03:58Z",
-                    "open_issues": 40,
+                    "open_issues": 39,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24966,
+                    "stars": 24967,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T19:41:52Z",
-                    "open_issues": 553,
+                    "last_commit": "2026-10-04T22:04:03Z",
+                    "open_issues": 548,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23267,
+                    "stars": 23268,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -238,10 +238,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-06T04:10:29Z",
-                    "open_issues": 175,
+                    "open_issues": 176,
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17468,
+                    "stars": 17469,
                     "topics": [
                       "distributed-tracing",
                       "observability",
@@ -335,8 +335,8 @@
                     "id": 24519987,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-02T11:23:20Z",
-                    "open_issues": 215,
+                    "last_commit": "2026-10-04T19:22:23Z",
+                    "open_issues": 217,
                     "owner": "squid-cache",
                     "repo": "squid",
                     "stars": 3116,
@@ -483,11 +483,11 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-04T00:09:31Z",
+                    "last_commit": "2026-10-05T07:11:52Z",
                     "open_issues": 3,
                     "owner": "apereo",
                     "repo": "cas",
-                    "stars": 11381,
+                    "stars": 11382,
                     "topics": [
                       "authentication",
                       "authorization",
@@ -547,7 +547,7 @@
                 "open_issues": 185,
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30850,
+                "stars": 30849,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:29.153Z"
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22013,
+                "stars": 22014,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -615,7 +615,7 @@
                     "open_issues": 50,
                     "owner": "forezp",
                     "repo": "SpringCloudLearning",
-                    "stars": 17904,
+                    "stars": 17905,
                     "topics": [
                       "consul",
                       "eureka",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:37:04.494Z",
+    "last_updated": "2026-10-05T08:00:53.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",

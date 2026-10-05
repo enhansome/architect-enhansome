@@ -911,10 +911,10 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,966 | 🐛 40 | 🌐 Java | 📅 2026-09-30
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,267 | 🐛 553 | 🌐 Go | 📅 2026-10-03
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,967 | 🐛 39 | 🌐 Java | 📅 2026-09-30
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,268 | 🐛 548 | 🌐 Go | 📅 2026-10-04
   * [CAT](https://github.com/dianping/cat) ⭐ 18,939 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,468 | 🐛 175 | 🌐 Java | 📅 2026-08-06
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,469 | 🐛 176 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,868 | 🐛 541 | 🌐 Java | 📅 2026-10-02
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,116 | 🐛 215 | 🌐 C++ | 📅 2026-10-02 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,116 | 🐛 217 | 🌐 C++ | 📅 2026-10-04 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,903 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,381 | 🐛 3 | 🌐 Java | 📅 2026-10-04
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,382 | 🐛 3 | 🌐 Java | 📅 2026-10-05
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,850 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,849 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2519,13 +2519,13 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,013 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,014 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
 ### 在线电子书
 
-* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,904 | 🐛 50 | 🌐 Java | 📅 2021-04-12
+* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,905 | 🐛 50 | 🌐 Java | 📅 2021-04-12
 
 * [《阿里技术参考图册-研发篇》](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1523849261680/AliTech101_RD.pdf)
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
