@@ -144,7 +144,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T03:03:58Z",
-                    "open_issues": 39,
+                    "open_issues": 38,
                     "owner": "apache",
                     "repo": "skywalking",
                     "stars": 24967,
@@ -183,7 +183,7 @@
                     "open_issues": 552,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23268,
+                    "stars": 23269,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -241,7 +241,7 @@
                     "open_issues": 176,
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17469,
+                    "stars": 17470,
                     "topics": [
                       "distributed-tracing",
                       "observability",
@@ -264,8 +264,8 @@
                     "id": 25459400,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T07:55:44Z",
-                    "open_issues": 541,
+                    "last_commit": "2026-10-06T09:13:44Z",
+                    "open_issues": 539,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
                     "stars": 13868,
@@ -336,7 +336,7 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-04T19:22:23Z",
-                    "open_issues": 217,
+                    "open_issues": 218,
                     "owner": "squid-cache",
                     "repo": "squid",
                     "stars": 3117,
@@ -444,7 +444,7 @@
                 "open_issues": 159,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29817,
+                "stars": 29818,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:23:02.944Z",
+    "last_updated": "2026-10-06T10:12:54.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60853,
+      "stars": 60854,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
