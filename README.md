@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,965 | 🐛 33 | 🌐 Java | 📅 2026-10-09
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,274 | 🐛 555 | 🌐 Go | 📅 2026-10-10
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,938 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,965 | 🐛 32 | 🌐 Java | 📅 2026-10-12
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,282 | 🐛 554 | 🌐 Go | 📅 2026-10-11
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,935 | 🐛 216 | 🌐 Java | 📅 2025-01-04
   * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,469 | 🐛 176 | 🌐 Java | 📅 2026-08-06
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,868 | 🐛 541 | 🌐 Java | 📅 2026-10-08
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,866 | 🐛 537 | 🌐 Java | 📅 2026-10-12
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1137,8 +1137,8 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,121 | 🐛 218 | 🌐 C++ | 📅 2026-10-11 - squid cache
-* [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,903 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,121 | 🐛 217 | 🌐 C++ | 📅 2026-10-12 - squid cache
+* [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,902 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
 
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,385 | 🐛 3 | 🌐 Java | 📅 2026-10-11
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,386 | 🐛 4 | 🌐 Java | 📅 2026-10-12
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
