@@ -911,9 +911,9 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,969 | 🐛 31 | 🌐 Java | 📅 2026-10-16
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,300 | 🐛 560 | 🌐 Go | 📅 2026-10-16
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,934 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,970 | 🐛 30 | 🌐 Java | 📅 2026-10-17
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,304 | 🐛 560 | 🌐 Go | 📅 2026-10-16
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,935 | 🐛 216 | 🌐 Java | 📅 2025-01-04
   * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,467 | 🐛 176 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,867 | 🐛 534 | 🌐 Java | 📅 2026-10-16
 
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,122 | 🐛 220 | 🌐 C++ | 📅 2026-10-16 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,123 | 🐛 220 | 🌐 C++ | 📅 2026-10-17 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,902 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,822 | 🐛 163 | 🌐 Java | 📅 2026-10-17
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,820 | 🐛 163 | 🌐 Java | 📅 2026-10-17
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,389 | 🐛 5 | 🌐 Java | 📅 2026-10-17
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,390 | 🐛 5 | 🌐 Java | 📅 2026-10-18
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,852 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,851 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,034 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,035 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
