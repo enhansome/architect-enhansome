@@ -599,8 +599,8 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## Java 并发
 
-* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,576 | 🐛 25 | 📅 2023-05-07
-* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,576 | 🐛 25 | 📅 2023-05-07
+* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,574 | 🐛 25 | 📅 2023-05-07
+* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,574 | 🐛 25 | 📅 2023-05-07
 
 ## 多线程
 
@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,974 | 🐛 32 | 🌐 Java | 📅 2026-10-23
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,333 | 🐛 562 | 🌐 Go | 📅 2026-10-24
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,934 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,470 | 🐛 176 | 🌐 Java | 📅 2026-08-06
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,869 | 🐛 540 | 🌐 Java | 📅 2026-10-23
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,975 | 🐛 32 | 🌐 Java | 📅 2026-10-23
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,336 | 🐛 572 | 🌐 Go | 📅 2026-10-24
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,937 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,471 | 🐛 176 | 🌐 Java | 📅 2026-08-06
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,871 | 🐛 540 | 🌐 Java | 📅 2026-10-23
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,822 | 🐛 157 | 🌐 Java | 📅 2026-10-17
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,820 | 🐛 156 | 🌐 Java | 📅 2026-10-24
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,388 | 🐛 6 | 🌐 Java | 📅 2026-10-24
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,389 | 🐛 7 | 🌐 Java | 📅 2026-10-25
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,846 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,850 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2525,7 +2525,7 @@ TODO
 
 ### 在线电子书
 
-* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,893 | 🐛 50 | 🌐 Java | 📅 2021-04-12
+* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,894 | 🐛 50 | 🌐 Java | 📅 2021-04-12
 
 * [《阿里技术参考图册-研发篇》](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1523849261680/AliTech101_RD.pdf)
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
