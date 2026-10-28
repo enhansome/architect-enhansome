@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "sorenduan",
             "repo": "awesome-java-books",
-            "stars": 7093,
+            "stars": 7095,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:29.153Z"
@@ -48,7 +48,7 @@
                 "open_issues": 25,
                 "owner": "CL0610",
                 "repo": "Java-concurrency",
-                "stars": 4572,
+                "stars": 4570,
                 "topics": [
                   "concurrency",
                   "concurrent-programming",
@@ -75,7 +75,7 @@
                 "open_issues": 25,
                 "owner": "CL0610",
                 "repo": "Java-concurrency",
-                "stars": 4572,
+                "stars": 4570,
                 "topics": [
                   "concurrency",
                   "concurrent-programming",
@@ -143,11 +143,11 @@
                     "id": 45721011,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T07:39:44Z",
-                    "open_issues": 36,
+                    "last_commit": "2026-10-28T03:10:33Z",
+                    "open_issues": 35,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24974,
+                    "stars": 24975,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T20:32:49Z",
-                    "open_issues": 572,
+                    "last_commit": "2026-10-28T06:19:38Z",
+                    "open_issues": 577,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23345,
+                    "stars": 23348,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -212,7 +212,7 @@
                     "open_issues": 216,
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18936,
+                    "stars": 18937,
                     "topics": [
                       "apm",
                       "distributed",
@@ -264,11 +264,11 @@
                     "id": 25459400,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T06:33:03Z",
-                    "open_issues": 516,
+                    "last_commit": "2026-10-28T04:14:17Z",
+                    "open_issues": 514,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13872,
+                    "stars": 13871,
                     "topics": [
                       "agent",
                       "apm",
@@ -339,7 +339,7 @@
                     "open_issues": 216,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3129,
+                    "stars": 3131,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -367,7 +367,7 @@
                     "open_issues": 22,
                     "owner": "jiangwenyuan",
                     "repo": "nuster",
-                    "stars": 1901,
+                    "stars": 1900,
                     "topics": [
                       "cache",
                       "caching",
@@ -441,10 +441,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T14:03:20Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29819,
+                "stars": 29821,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,11 +483,11 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T00:28:18Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-28T02:07:06Z",
+                    "open_issues": 15,
                     "owner": "apereo",
                     "repo": "cas",
-                    "stars": 11390,
+                    "stars": 11391,
                     "topics": [
                       "authentication",
                       "authorization",
@@ -547,7 +547,7 @@
                 "open_issues": 185,
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30852,
+                "stars": 30853,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:29.153Z"
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22049,
+                "stars": 22055,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -659,7 +659,7 @@
                     "open_issues": 9,
                     "owner": "sorenduan",
                     "repo": "awesome-java-books",
-                    "stars": 7093,
+                    "stars": 7095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:29.153Z"
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T07:07:13.536Z",
+    "last_updated": "2026-10-28T07:46:41.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60845,
+      "stars": 60840,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
