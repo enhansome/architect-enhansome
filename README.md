@@ -911,10 +911,10 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,984 | 🐛 32 | 🌐 Java | 📅 2026-10-31
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,360 | 🐛 583 | 🌐 Go | 📅 2026-10-30
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,937 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,474 | 🐛 176 | 🌐 Java | 📅 2026-08-06
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,984 | 🐛 33 | 🌐 Java | 📅 2026-11-01
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,363 | 🐛 591 | 🌐 Go | 📅 2026-11-01
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,936 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,475 | 🐛 176 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,871 | 🐛 513 | 🌐 Java | 📅 2026-10-30
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,133 | 🐛 215 | 🌐 C++ | 📅 2026-10-31 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,135 | 🐛 214 | 🌐 C++ | 📅 2026-10-31 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,900 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,822 | 🐛 158 | 🌐 Java | 📅 2026-10-24
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,822 | 🐛 154 | 🌐 Java | 📅 2026-11-01
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,392 | 🐛 24 | 🌐 Java | 📅 2026-10-31
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,392 | 🐛 8 | 🌐 Java | 📅 2026-11-01
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,853 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,851 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,058 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,061 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
