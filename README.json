@@ -143,11 +143,11 @@
                     "id": 45721011,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T12:52:09Z",
+                    "last_commit": "2026-11-08T03:08:42Z",
                     "open_issues": 27,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24995,
+                    "stars": 24994,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T05:20:44Z",
-                    "open_issues": 598,
+                    "last_commit": "2026-11-07T18:28:36Z",
+                    "open_issues": 602,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23383,
+                    "stars": 23386,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -339,7 +339,7 @@
                     "open_issues": 216,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3142,
+                    "stars": 3146,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -440,11 +440,11 @@
                 "id": 53127403,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T09:57:01Z",
-                "open_issues": 157,
+                "last_commit": "2026-11-07T13:02:41Z",
+                "open_issues": 155,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29815,
+                "stars": 29814,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,8 +483,8 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T02:22:23Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-08T05:40:11Z",
+                    "open_issues": 20,
                     "owner": "apereo",
                     "repo": "cas",
                     "stars": 11393,
@@ -547,7 +547,7 @@
                 "open_issues": 185,
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30854,
+                "stars": 30853,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:29.153Z"
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22064,
+                "stars": 22063,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:04:56.467Z",
+    "last_updated": "2026-11-08T08:23:37.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60846,
+      "stars": 60847,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
