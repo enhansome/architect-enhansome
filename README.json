@@ -147,7 +147,7 @@
                     "open_issues": 27,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 24994,
+                    "stars": 24995,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T18:28:36Z",
-                    "open_issues": 602,
+                    "last_commit": "2026-11-09T04:14:15Z",
+                    "open_issues": 609,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23386,
+                    "stars": 23389,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -212,7 +212,7 @@
                     "open_issues": 216,
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18935,
+                    "stars": 18933,
                     "topics": [
                       "apm",
                       "distributed",
@@ -241,7 +241,7 @@
                     "open_issues": 175,
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17473,
+                    "stars": 17474,
                     "topics": [
                       "distributed-tracing",
                       "observability",
@@ -264,11 +264,11 @@
                     "id": 25459400,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T13:21:55Z",
-                    "open_issues": 517,
+                    "last_commit": "2026-11-09T08:24:57Z",
+                    "open_issues": 516,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13870,
+                    "stars": 13871,
                     "topics": [
                       "agent",
                       "apm",
@@ -313,7 +313,7 @@
                     "open_issues": 149,
                     "owner": "varnishcache",
                     "repo": "varnish-cache",
-                    "stars": 4045,
+                    "stars": 4044,
                     "topics": [
                       "caching",
                       "high-performance",
@@ -367,7 +367,7 @@
                     "open_issues": 22,
                     "owner": "jiangwenyuan",
                     "repo": "nuster",
-                    "stars": 1899,
+                    "stars": 1900,
                     "topics": [
                       "cache",
                       "caching",
@@ -411,7 +411,7 @@
                     "open_issues": 8,
                     "owner": "alibaba",
                     "repo": "tair",
-                    "stars": 2313,
+                    "stars": 2312,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:29.153Z"
@@ -441,10 +441,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T13:02:41Z",
-                "open_issues": 155,
+                "open_issues": 154,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29814,
+                "stars": 29812,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,8 +483,8 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T05:40:11Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-11-09T08:51:50Z",
+                    "open_issues": 22,
                     "owner": "apereo",
                     "repo": "cas",
                     "stars": 11393,
@@ -547,7 +547,7 @@
                 "open_issues": 185,
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30853,
+                "stars": 30850,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:29.153Z"
@@ -615,7 +615,7 @@
                     "open_issues": 50,
                     "owner": "forezp",
                     "repo": "SpringCloudLearning",
-                    "stars": 17891,
+                    "stars": 17890,
                     "topics": [
                       "consul",
                       "eureka",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:23:37.379Z",
+    "last_updated": "2026-11-09T08:54:39.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60847,
+      "stars": 60848,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",

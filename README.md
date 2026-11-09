@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,994 | 🐛 27 | 🌐 Java | 📅 2026-11-08
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,386 | 🐛 602 | 🌐 Go | 📅 2026-11-07
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,935 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,473 | 🐛 175 | 🌐 Java | 📅 2026-08-06
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,870 | 🐛 517 | 🌐 Java | 📅 2026-11-06
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,995 | 🐛 27 | 🌐 Java | 📅 2026-11-08
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,389 | 🐛 609 | 🌐 Go | 📅 2026-11-09
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,933 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,474 | 🐛 175 | 🌐 Java | 📅 2026-08-06
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,871 | 🐛 516 | 🌐 Java | 📅 2026-11-09
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1138,7 +1138,7 @@ APM —  Application Performance Management
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
 * [squid](https://github.com/squid-cache/squid) ⭐ 3,146 | 🐛 216 | 🌐 C++ | 📅 2026-11-07 - squid cache
-* [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,899 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
+* [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,900 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
 
@@ -1182,7 +1182,7 @@ APM —  Application Performance Management
 
 ### Tair
 
-* [官方网站](https://github.com/alibaba/tair) ⭐ 2,313 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
+* [官方网站](https://github.com/alibaba/tair) ⭐ 2,312 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
 * [《Tair和Redis的对比》](http://blog.csdn.net/farphone/article/details/53522383)
 * 特点：可以配置备份节点数目，通过异步同步到备份节点
 * 一致性Hash算法。
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,814 | 🐛 155 | 🌐 Java | 📅 2026-11-07
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,812 | 🐛 154 | 🌐 Java | 📅 2026-11-07
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,393 | 🐛 20 | 🌐 Java | 📅 2026-11-08
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,393 | 🐛 22 | 🌐 Java | 📅 2026-11-09
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,853 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,850 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2525,7 +2525,7 @@ TODO
 
 ### 在线电子书
 
-* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,891 | 🐛 50 | 🌐 Java | 📅 2021-04-12
+* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,890 | 🐛 50 | 🌐 Java | 📅 2021-04-12
 
 * [《阿里技术参考图册-研发篇》](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1523849261680/AliTech101_RD.pdf)
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
