@@ -6,7 +6,7 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,100 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,101 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
@@ -599,8 +599,8 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## Java 并发
 
-* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,569 | 🐛 25 | 📅 2023-05-07
-* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,569 | 🐛 25 | 📅 2023-05-07
+* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,568 | 🐛 25 | 📅 2023-05-07
+* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,568 | 🐛 25 | 📅 2023-05-07
 
 ## 多线程
 
@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,995 | 🐛 27 | 🌐 Java | 📅 2026-11-08
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,389 | 🐛 609 | 🌐 Go | 📅 2026-11-09
-  * [CAT](https://github.com/dianping/cat) ⭐ 18,933 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,474 | 🐛 175 | 🌐 Java | 📅 2026-08-06
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,871 | 🐛 516 | 🌐 Java | 📅 2026-11-09
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 24,997 | 🐛 27 | 🌐 Java | 📅 2026-11-10
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,393 | 🐛 607 | 🌐 Go | 📅 2026-11-10
+  * [CAT](https://github.com/dianping/cat) ⭐ 18,934 | 🐛 216 | 🌐 Java | 📅 2025-01-04
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,476 | 🐛 175 | 🌐 Java | 📅 2026-08-06
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,873 | 🐛 512 | 🌐 Java | 📅 2026-11-10
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,146 | 🐛 216 | 🌐 C++ | 📅 2026-11-07 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,147 | 🐛 217 | 🌐 C++ | 📅 2026-11-07 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,900 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,393 | 🐛 22 | 🌐 Java | 📅 2026-11-09
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,394 | 🐛 9 | 🌐 Java | 📅 2026-11-10
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2236,7 +2236,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,850 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c) ⭐ 30,849 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06
 
 ## 代码 Review
 
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,063 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,064 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,100 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,101 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
