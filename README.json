@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "sorenduan",
             "repo": "awesome-java-books",
-            "stars": 7102,
+            "stars": 7103,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:29.153Z"
@@ -48,7 +48,7 @@
                 "open_issues": 25,
                 "owner": "CL0610",
                 "repo": "Java-concurrency",
-                "stars": 4568,
+                "stars": 4567,
                 "topics": [
                   "concurrency",
                   "concurrent-programming",
@@ -75,7 +75,7 @@
                 "open_issues": 25,
                 "owner": "CL0610",
                 "repo": "Java-concurrency",
-                "stars": 4568,
+                "stars": 4567,
                 "topics": [
                   "concurrency",
                   "concurrent-programming",
@@ -144,10 +144,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T00:56:29Z",
-                    "open_issues": 25,
+                    "open_issues": 23,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 25001,
+                    "stars": 25003,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T17:10:13Z",
-                    "open_issues": 613,
+                    "last_commit": "2026-11-11T10:47:46Z",
+                    "open_issues": 621,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23396,
+                    "stars": 23402,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -264,11 +264,11 @@
                     "id": 25459400,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T07:53:28Z",
-                    "open_issues": 513,
+                    "last_commit": "2026-11-12T07:34:40Z",
+                    "open_issues": 511,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13876,
+                    "stars": 13877,
                     "topics": [
                       "agent",
                       "apm",
@@ -339,7 +339,7 @@
                     "open_issues": 217,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3148,
+                    "stars": 3147,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -440,11 +440,11 @@
                 "id": 53127403,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T13:02:41Z",
+                "last_commit": "2026-11-12T02:01:18Z",
                 "open_issues": 154,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29812,
+                "stars": 29810,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,11 +483,11 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T04:17:48Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-11-12T08:19:03Z",
+                    "open_issues": 14,
                     "owner": "apereo",
                     "repo": "cas",
-                    "stars": 11394,
+                    "stars": 11395,
                     "topics": [
                       "authentication",
                       "authorization",
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22062,
+                "stars": 22061,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -615,7 +615,7 @@
                     "open_issues": 50,
                     "owner": "forezp",
                     "repo": "SpringCloudLearning",
-                    "stars": 17890,
+                    "stars": 17891,
                     "topics": [
                       "consul",
                       "eureka",
@@ -659,7 +659,7 @@
                     "open_issues": 9,
                     "owner": "sorenduan",
                     "repo": "awesome-java-books",
-                    "stars": 7102,
+                    "stars": 7103,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:29.153Z"
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T08:41:09.251Z",
+    "last_updated": "2026-11-12T09:01:47.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60852,
+      "stars": 60851,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
