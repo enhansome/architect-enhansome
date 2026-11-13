@@ -143,11 +143,11 @@
                     "id": 45721011,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T00:56:29Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-11-13T01:01:46Z",
+                    "open_issues": 20,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 25003,
+                    "stars": 25004,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T10:47:46Z",
-                    "open_issues": 621,
+                    "last_commit": "2026-11-12T21:04:08Z",
+                    "open_issues": 622,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23402,
+                    "stars": 23406,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -212,7 +212,7 @@
                     "open_issues": 216,
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18934,
+                    "stars": 18933,
                     "topics": [
                       "apm",
                       "distributed",
@@ -238,10 +238,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-06T04:10:29Z",
-                    "open_issues": 175,
+                    "open_issues": 177,
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17476,
+                    "stars": 17474,
                     "topics": [
                       "distributed-tracing",
                       "observability",
@@ -264,11 +264,11 @@
                     "id": 25459400,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T07:34:40Z",
-                    "open_issues": 511,
+                    "last_commit": "2026-11-13T06:17:46Z",
+                    "open_issues": 508,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13877,
+                    "stars": 13878,
                     "topics": [
                       "agent",
                       "apm",
@@ -336,10 +336,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-11-10T19:58:34Z",
-                    "open_issues": 217,
+                    "open_issues": 218,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3147,
+                    "stars": 3149,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -444,7 +444,7 @@
                 "open_issues": 154,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29810,
+                "stars": 29812,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -484,10 +484,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-12T08:19:03Z",
-                    "open_issues": 14,
+                    "open_issues": 13,
                     "owner": "apereo",
                     "repo": "cas",
-                    "stars": 11395,
+                    "stars": 11398,
                     "topics": [
                       "authentication",
                       "authorization",
@@ -547,7 +547,7 @@
                 "open_issues": 185,
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30850,
+                "stars": 30853,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:29.153Z"
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22061,
+                "stars": 22060,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:01:47.189Z",
+    "last_updated": "2026-11-13T08:56:13.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60851,
+      "stars": 60849,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
