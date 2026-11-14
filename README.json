@@ -143,7 +143,7 @@
                     "id": 45721011,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T01:01:46Z",
+                    "last_commit": "2026-11-14T02:28:39Z",
                     "open_issues": 20,
                     "owner": "apache",
                     "repo": "skywalking",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T21:04:08Z",
-                    "open_issues": 622,
+                    "last_commit": "2026-11-14T06:14:10Z",
+                    "open_issues": 626,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23406,
+                    "stars": 23408,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -212,7 +212,7 @@
                     "open_issues": 216,
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18933,
+                    "stars": 18932,
                     "topics": [
                       "apm",
                       "distributed",
@@ -241,7 +241,7 @@
                     "open_issues": 177,
                     "owner": "openzipkin",
                     "repo": "zipkin",
-                    "stars": 17474,
+                    "stars": 17473,
                     "topics": [
                       "distributed-tracing",
                       "observability",
@@ -264,8 +264,8 @@
                     "id": 25459400,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T06:17:46Z",
-                    "open_issues": 508,
+                    "last_commit": "2026-11-13T11:04:59Z",
+                    "open_issues": 507,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
                     "stars": 13878,
@@ -339,7 +339,7 @@
                     "open_issues": 218,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3149,
+                    "stars": 3150,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -444,7 +444,7 @@
                 "open_issues": 154,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29812,
+                "stars": 29813,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,8 +483,8 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T08:19:03Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-14T05:05:31Z",
+                    "open_issues": 14,
                     "owner": "apereo",
                     "repo": "cas",
                     "stars": 11398,
@@ -547,7 +547,7 @@
                 "open_issues": 185,
                 "owner": "alibaba",
                 "repo": "p3c",
-                "stars": 30853,
+                "stars": 30852,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:29.153Z"
@@ -581,7 +581,7 @@
                 "open_issues": 80,
                 "owner": "TeamStuQ",
                 "repo": "skill-map",
-                "stars": 22060,
+                "stars": 22062,
                 "topics": [
                   "programmer",
                   "skillmap",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:56:13.341Z",
+    "last_updated": "2026-11-14T08:23:07.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60849,
+      "stars": 60848,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
