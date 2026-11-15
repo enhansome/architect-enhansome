@@ -6,7 +6,7 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,103 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,102 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
@@ -599,8 +599,8 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## Java 并发
 
-* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,567 | 🐛 25 | 📅 2023-05-07
-* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,567 | 🐛 25 | 📅 2023-05-07
+* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,568 | 🐛 25 | 📅 2023-05-07
+* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,568 | 🐛 25 | 📅 2023-05-07
 
 ## 多线程
 
@@ -911,10 +911,10 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 25,004 | 🐛 20 | 🌐 Java | 📅 2026-11-14
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,408 | 🐛 626 | 🌐 Go | 📅 2026-11-14
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 25,007 | 🐛 23 | 🌐 Java | 📅 2026-11-15
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,408 | 🐛 635 | 🌐 Go | 📅 2026-11-14
   * [CAT](https://github.com/dianping/cat) ⭐ 18,932 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,473 | 🐛 177 | 🌐 Java | 📅 2026-08-06
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,473 | 🐛 178 | 🌐 Java | 📅 2026-08-06
   * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,878 | 🐛 507 | 🌐 Java | 📅 2026-11-13
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,150 | 🐛 218 | 🌐 C++ | 📅 2026-11-10 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,151 | 🐛 218 | 🌐 C++ | 📅 2026-11-10 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,900 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1182,7 +1182,7 @@ APM —  Application Performance Management
 
 ### Tair
 
-* [官方网站](https://github.com/alibaba/tair) ⭐ 2,313 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
+* [官方网站](https://github.com/alibaba/tair) ⭐ 2,312 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
 * [《Tair和Redis的对比》](http://blog.csdn.net/farphone/article/details/53522383)
 * 特点：可以配置备份节点数目，通过异步同步到备份节点
 * 一致性Hash算法。
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,398 | 🐛 14 | 🌐 Java | 📅 2026-11-14
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,399 | 🐛 14 | 🌐 Java | 📅 2026-11-15
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,103 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,102 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
