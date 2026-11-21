@@ -6,7 +6,7 @@
 
 ***
 
-<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,102 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">推荐:</b> [《Java技术书籍大全》 - awesome-java-books](https://github.com/sorenduan/awesome-java-books) ⭐ 7,101 | 🐛 9 | 📅 2022-09-14
 
 <p>从初级开发者到资深架构师，看这些书就够了</p>
 <hr/>
@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 25,016 | 🐛 37 | 🌐 Java | 📅 2026-11-20
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,433 | 🐛 624 | 🌐 Go | 📅 2026-11-20
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 25,017 | 🐛 37 | 🌐 Java | 📅 2026-11-20
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,436 | 🐛 613 | 🌐 Go | 📅 2026-11-21
   * [CAT](https://github.com/dianping/cat) ⭐ 18,934 | 🐛 216 | 🌐 Java | 📅 2025-01-04
   * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,475 | 🐛 176 | 🌐 Java | 📅 2026-11-18
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,874 | 🐛 471 | 🌐 Java | 📅 2026-11-20
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,874 | 🐛 471 | 🌐 Java | 📅 2026-11-21
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,813 | 🐛 158 | 🌐 Java | 📅 2026-11-20
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,814 | 🐛 153 | 🌐 Java | 📅 2026-11-21
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,404 | 🐛 11 | 🌐 Java | 📅 2026-11-20
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,404 | 🐛 15 | 🌐 Java | 📅 2026-11-21
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2519,13 +2519,13 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,073 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,072 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
 ### 在线电子书
 
-* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,889 | 🐛 50 | 🌐 Java | 📅 2021-04-12
+* [《深入理解Spring Cloud与微服务构建》](https://github.com/forezp/SpringCloudLearning) ⭐ 17,888 | 🐛 50 | 🌐 Java | 📅 2021-04-12
 
 * [《阿里技术参考图册-研发篇》](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1523849261680/AliTech101_RD.pdf)
 
@@ -2539,7 +2539,7 @@ TODO
 
 ### 纸质书
 
-<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,102 | 🐛 9 | 📅 2022-09-14
+<b style="color:red">更多架构方面书籍参考:</b> [awesome-java-books](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#%E6%9E%B6%E6%9E%84) ⭐ 7,101 | 🐛 9 | 📅 2022-09-14
 
 #### 开发方面
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
