@@ -143,11 +143,11 @@
                     "id": 45721011,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T11:44:57Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-11-22T06:52:21Z",
+                    "open_issues": 38,
                     "owner": "apache",
                     "repo": "skywalking",
-                    "stars": 25017,
+                    "stars": 25018,
                     "topics": [
                       "apm",
                       "dapper",
@@ -179,11 +179,11 @@
                     "id": 56342508,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T00:34:14Z",
-                    "open_issues": 613,
+                    "last_commit": "2026-11-22T03:08:05Z",
+                    "open_issues": 608,
                     "owner": "jaegertracing",
                     "repo": "jaeger",
-                    "stars": 23436,
+                    "stars": 23439,
                     "topics": [
                       "cncf",
                       "distributed-tracing",
@@ -212,7 +212,7 @@
                     "open_issues": 216,
                     "owner": "dianping",
                     "repo": "cat",
-                    "stars": 18934,
+                    "stars": 18932,
                     "topics": [
                       "apm",
                       "distributed",
@@ -268,7 +268,7 @@
                     "open_issues": 471,
                     "owner": "pinpoint-apm",
                     "repo": "pinpoint",
-                    "stars": 13874,
+                    "stars": 13875,
                     "topics": [
                       "agent",
                       "apm",
@@ -339,7 +339,7 @@
                     "open_issues": 229,
                     "owner": "squid-cache",
                     "repo": "squid",
-                    "stars": 3159,
+                    "stars": 3160,
                     "topics": [
                       "ecap",
                       "ftp",
@@ -440,11 +440,11 @@
                 "id": 53127403,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T08:23:06Z",
+                "last_commit": "2026-11-21T13:48:03Z",
                 "open_issues": 153,
                 "owner": "apolloconfig",
                 "repo": "apollo",
-                "stars": 29814,
+                "stars": 29812,
                 "topics": [
                   "config-management",
                   "configuration-management",
@@ -483,7 +483,7 @@
                     "id": 2352744,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T08:10:24Z",
+                    "last_commit": "2026-11-22T02:53:52Z",
                     "open_issues": 15,
                     "owner": "apereo",
                     "repo": "cas",
@@ -615,7 +615,7 @@
                     "open_issues": 50,
                     "owner": "forezp",
                     "repo": "SpringCloudLearning",
-                    "stars": 17888,
+                    "stars": 17887,
                     "topics": [
                       "consul",
                       "eureka",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:00:09.649Z",
+    "last_updated": "2026-11-22T09:08:11.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "后端架构师技术图谱",
@@ -691,7 +691,7 @@
       "open_issues": 64,
       "owner": "xingshaocheng",
       "repo": "architect-awesome",
-      "stars": 60845,
+      "stars": 60844,
       "topics": []
     },
     "original_repository_sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
