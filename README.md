@@ -599,8 +599,8 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## Java 并发
 
-* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,566 | 🐛 25 | 📅 2023-05-07
-* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,566 | 🐛 25 | 📅 2023-05-07
+* [Java 并发知识合集](https://github.com/CL0610/Java-concurrency) ⭐ 4,567 | 🐛 25 | 📅 2023-05-07
+* [JAVA并发知识图谱](https://github.com/CL0610/Java-concurrency/blob/master/Java并发知识图谱.png) ⭐ 4,567 | 🐛 25 | 📅 2023-05-07
 
 ## 多线程
 
@@ -911,11 +911,11 @@ APM —  Application Performance Management
 * [《Dapper，大规模分布式系统的跟踪系统》](http://bigbully.github.io/Dapper-translation/)
 
 * 主要开源软件，按字母排序
-  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 25,026 | 🐛 39 | 🌐 Java | 📅 2026-11-24
-  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,441 | 🐛 609 | 🌐 Go | 📅 2026-11-22
+  * [Apache SkyWalking](https://github.com/apache/incubator-skywalking) ⭐ 25,029 | 🐛 37 | 🌐 Java | 📅 2026-11-25
+  * [CNCF jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,444 | 🐛 610 | 🌐 Go | 📅 2026-11-24
   * [CAT](https://github.com/dianping/cat) ⭐ 18,931 | 🐛 216 | 🌐 Java | 📅 2025-01-04
-  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,476 | 🐛 176 | 🌐 Java | 📅 2026-11-18
-  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,875 | 🐛 469 | 🌐 Java | 📅 2026-11-24
+  * [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,477 | 🐛 176 | 🌐 Java | 📅 2026-11-18
+  * [Pinpoint](https://github.com/naver/pinpoint) ⭐ 13,875 | 🐛 473 | 🌐 Java | 📅 2026-11-25
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
   * 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
@@ -1137,7 +1137,7 @@ APM —  Application Performance Management
 ### Web缓存
 
 * [varnish](https://github.com/varnishcache/varnish-cache) ⚠️ Archived - varnish cache
-* [squid](https://github.com/squid-cache/squid) ⭐ 3,161 | 🐛 231 | 🌐 C++ | 📅 2026-11-18 - squid cache
+* [squid](https://github.com/squid-cache/squid) ⭐ 3,163 | 🐛 232 | 🌐 C++ | 📅 2026-11-25 - squid cache
 * [nuster](https://github.com/jiangwenyuan/nuster) ⭐ 1,899 | 🐛 22 | 🌐 C | 📅 2021-12-07 - nuster cache
 
 ### Memcached
@@ -1182,7 +1182,7 @@ APM —  Application Performance Management
 
 ### Tair
 
-* [官方网站](https://github.com/alibaba/tair) ⭐ 2,310 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
+* [官方网站](https://github.com/alibaba/tair) ⭐ 2,311 | 🐛 8 | 🌐 C++ | 📅 2019-11-19
 * [《Tair和Redis的对比》](http://blog.csdn.net/farphone/article/details/53522383)
 * 特点：可以配置备份节点数目，通过异步同步到备份节点
 * 一致性Hash算法。
@@ -1327,7 +1327,7 @@ TODO
 
 ## 配置中心
 
-* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,815 | 🐛 153 | 🌐 Java | 📅 2026-11-21
+* [Apollo - 携程开源的配置中心应用](https://github.com/ctripcorp/apollo) ⭐ 29,819 | 🐛 153 | 🌐 Java | 📅 2026-11-21
   * Spring Boot 和 Spring Cloud
   * 支持推、拉模式更新配置
   * 支持多种语言
@@ -1793,7 +1793,7 @@ TODO
 
 ### 单点登录(SSO)
 
-* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,405 | 🐛 20 | 🌐 Java | 📅 2026-11-24
+* [CAS单点登录框架](https://github.com/apereo/cas) ⭐ 11,404 | 🐛 9 | 🌐 Java | 📅 2026-11-25
 * [《单点登录原理与简单实现》](https://www.cnblogs.com/ywlaker/p/6113927.html)
 * [使用 Authing 实现单点登录](https://docs.authing.cn/authing/quickstart/implement-sso-with-authing)
 
@@ -2519,7 +2519,7 @@ TODO
 
 ## 其他类
 
-* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,069 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
+* [程序员技能图谱](https://github.com/TeamStuQ/skill-map) ⭐ 22,070 | 🐛 80 | 🌐 HTML | 📅 2023-01-20
 
 ## 推荐参考书
 
@@ -2687,4 +2687,4 @@ TODO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
